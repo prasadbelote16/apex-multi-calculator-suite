@@ -26,7 +26,7 @@ This project demonstrates multiple calculators built using Oracle APEX with Dyna
 
 ## 📸 Screenshots
 
-![Basic Calculator](basic.png)
+![Basic Calculator](Application_file_and_ss/Screenshot 2026-03-31 174007.png)
 ![EMI Calculator](emi.png)
 
 ---
